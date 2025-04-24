@@ -1,0 +1,19 @@
+// Override minima theme variables with eye-friendly red colors
+
+// Main brand color (was blue, now a soft red)
+$brand-color: #c05050;
+$site-title-color: $brand-color;
+
+// Link colors (softer red tones that are eye-friendly)
+$link-base-color: #a83838;
+$link-visited-color: #8a3030;
+$link-hover-color: #c05050;
+
+// Text colors
+$text-color: #333333;
+$background-color: #fdfdfd;
+
+// Heading colors
+$heading-color: #9a3a3a; // Slightly darker than brand-color for better readability
+
+$base-font-family: "Raleway", sans-serif;
