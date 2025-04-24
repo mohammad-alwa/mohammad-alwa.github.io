@@ -1,0 +1,15 @@
+// Add custom styles to match our eye-friendly red theme
+
+// Apply heading color to all headings
+h1, h2, h3, h4, h5, h6 {
+  color: $heading-color;
+}
+
+// Style for post titles to match our theme
+.post-title {
+  color: $brand-color;
+}
+
+.home .page-heading {
+  display: none
+}
